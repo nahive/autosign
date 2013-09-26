@@ -1,6 +1,6 @@
   
-//edytuj te wartosci wprowadzajac numery kursow
-var codes = ['z00-13a','z00-10a','z00-20e','z00-18h'];
+//edytuj te wartosci wprowadzajac kody kursow
+var codes = ['z00-10x','z00-12x','z00-42x','z00-12x'];
 // manualny reset jesli wprowadza zle wartosci
 var reset = 0; 
 
