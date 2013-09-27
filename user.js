@@ -1,4 +1,8 @@
-  
+// created by nahive
+// 2013-27-9
+// for test uses only
+
+
 //edytuj te wartosci wprowadzajac kody kursow
 var codes = ['z00-10x','z00-12x','z00-42x','z00-12x'];
 // manualny reset jesli wprowadza zle wartosci
